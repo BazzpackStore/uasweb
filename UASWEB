@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Muhammad Ashif B W | 222303009 | KA-REG-4</title>
+<style>
+body {
+            background-image: url('bacround.jpg');
+            font-family: Arial, sans-serif;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: blue;
+            font-size: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .content {
+            text-align: center;
+        }
+        .content img {
+            margin: 10px;
+        }
+        form {
+            display: inline-block;
+            text-align: left;
+            margin-top: 20px;
+        }
+        form label, form input, form button {
+            display: block;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bazzpack Official Store</h1>
+    <h2></h2><p> Bazzpack Official Store menyediakan berbagai tas mulai dari waistbag, ransel, slempang, clutch bag dan juga handbag.</p></h2>
+    <p><h2>Lokasi</h2> 
+        Kp. Nagrog, Rt 05/12, Desa Babakan Peteuy
+        Kec. Cicalengka, Kab. Bandung, Jawa Barat 40395
+
+    <h2>Produk Kami</h2>
+    <div>
+        <h2>XEON</h2>
+        <img src="waishbag.jpeg" alt="fs" height="250" width="180">
+        <P>Fitur : Anti Air</P>                                         
+        <p>Model : Elegan</p>                                            
+        <p>Bahan : Poliester</p>
+        <p>Tipe Pengencang : Resleting</p>
+        <p><b><i>Harga:</b> Rp 110.000</i></p>
+        <h2>MUSA</h2>
+        <img src="ransell.jpeg" alt="fs" height="250" width="180">
+        <P>Fitur : Anti Air</P>
+        <p>Model : Keren</p>
+        <p>Bahan : Bimo Piu Lembut</p>
+        <p>Tipe Pengencang : Resleting</p>
+        <p><b><i>Harga:</b> Rp 140.000</i></p>
+        <h2>KENZI ULTIMATE</h2>
+        <img src="kenziultimee.jpeg" alt="fs" height="250" width="180">
+        <P>Fitur : Anti Air</P>
+        <p>Model : Keren</p>
+        <p>Bahan : Bimo Piu Lembut</p>
+        <p>Tipe Pengencang : Resleting</p>
+        <p><b><i>Harga:</b> Rp 70.000</i></p>
+        <h2>ZERO ULTMATE</h2>
+        <img src="zeroultimatee.jpeg" alt="fs" height="250" width="180">
+        <P>Fitur : Anti Air Efek Daun Talas</P>
+        <p>Model : Elegant</p>
+        <p>Bahan : Filamen</p>
+        <p>Tipe Pengencang : Resleting</p>
+        <p><b><i>Harga:</b> Rp 150.000</i></p>
+        <hr>
+        </div>
+    </stlye>
+</head>
+<body>
+<a href="order.barang?nama_barang=$d[nama_barang]">
+<h1> <h2> <button type="button" class="btn" onclick="sendToWhatsApp()">Kirim Order</button></h2></h1>
+ </a>
+</form>
+</div>
+<p> <img src="kalung.jpeg" alt="fs" height="350" width="280"> </p>
+
+                        <h2>Kontak Kami</h2>
+                        <p>Klik Logo Whatsapp Untuk Informasi Selanjutnya</p>
+    <a href="https://web.whatsapp.com/send?phone=628987435915&text=Ashif222303009...">
+ <img src="Whatsapp.jpg" alt="fs" height="180" width="110">
+   </a>
+    </div>
+</body>
+</html>
